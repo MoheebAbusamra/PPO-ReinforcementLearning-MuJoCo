@@ -1,0 +1,9 @@
+# Python 3.12
+gymnasium[mujoco]==1.4.0
+mujoco==3.17.0
+torch>=2.2
+tensorboard>=2.15
+numpy>=1.26
+matplotlib>=3.8
+moviepy>=2.0
+ipykernel
